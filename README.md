@@ -154,21 +154,14 @@ As a **Full Stack Developer**, I specialise in building modern web applications 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ranafathimapunnol-cyber&show_icons=true&bg_color=0B2B2A&title_color=2DD4BF&icon_color=F5D28A&text_color=FFFFFF&border_color=2DD4BF&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranafathimapunnol-cyber&layout=compact&bg_color=0B2B2A&title_color=2DD4BF&text_color=FFFFFF&border_color=2DD4BF&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranafathimapunnol-cyber&background=0D1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&sideLabels=9CA3AF&dates=9CA3AF&border=00E5FF&hide_border=true&stroke=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranafathimapunnol-cyber&background=0B2B2A&ring=2DD4BF&fire=F5D28A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=2DD4BF&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranafathimapunnol-cyber&bg_color=0D1117&color=00E5FF&line=FF6B6B&point=FFD700&area=true&area_color=00E5FF&hide_border=true&custom_title=Contribution%20Graph&radius=8"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranafathimapunnol-cyber&bg_color=0B2B2A&color=FFFFFF&line=F5D28A&point=FFF8E7&area=true&area_color=2DD4BF&hide_border=true&custom_title=Contribution%20Graph"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranafathimapunnol-cyber&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-</div>
 ---
 
 ## 📫 Connect With Me
