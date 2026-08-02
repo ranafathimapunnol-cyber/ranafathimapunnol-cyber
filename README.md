@@ -6,10 +6,7 @@
 <!-- TYPING EFFECT -->
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&duration=3500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React.js;AI+%26+RAG+Enthusiast;Building+Products+Rooted+in+Kerala" />
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=ranafathimapunnol-cyber&label=Profile%20Views&color=2DD4BF&style=for-the-badge" />
 
-<br/><br/>
 
 ---
 
@@ -19,16 +16,8 @@ I believe technology is most valuable when it solves genuine problems.
 
 As a **Full Stack Developer**, I specialise in building modern web applications that combine thoughtful design, reliable architecture, and artificial intelligence. I enjoy transforming ideas into scalable products that deliver exceptional user experiences.
 
-### 🌟 Current Focus
 
-- 🚀 AI-powered Web Applications
-- 🌍 **DiscoverEase** — Intelligent Tourism Platform
-- 🤝 **PAYAT** — Community Contribution Platform
-- 🧠 Artificial Intelligence & Retrieval-Augmented Generation (RAG)
-- ☁️ Scalable Backend Development
-- 🎨 Modern UI/UX Engineering
 
-### 🧠 Tech Philosophy
 
 > Clean Code • Scalable Architecture • User-Centred Design • Continuous Learning
 
@@ -165,8 +154,6 @@ As a **Full Stack Developer**, I specialise in building modern web applications 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ranafathimapunnol-cyber&show_icons=true&bg_color=0B2B2A&title_color=2DD4BF&icon_color=F5D28A&text_color=B9DFD8&border_color=2DD4BF&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranafathimapunnol-cyber&layout=compact&bg_color=0B2B2A&title_color=2DD4BF&text_color=B9DFD8&border_color=2DD4BF&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -199,12 +186,4 @@ As a **Full Stack Developer**, I specialise in building modern web applications 
 
 ---
 
-## 🎯 Currently Learning
 
-```python
-learning = {
-    "AI": ["RAG", "Vector Databases", "LangChain"],
-    "ML": ["Model Training", "Deployment"],
-    "DevOps": ["Docker", "AWS", "CI/CD"],
-    "Design": ["UI/UX Principles", "Design Systems"]
-}
