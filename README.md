@@ -3,6 +3,7 @@
 <!-- BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2B2A,100:2DD4BF&height=200&section=header&text=Rana%20Fathima&fontSize=70&fontColor=FFF8E7&animation=fadeIn&fontAlignY=35" width="100%"/>
 
+
 <!-- TYPING EFFECT -->
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&duration=3500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React.js;AI+%26+RAG+Enthusiast;Building+Products+Rooted+in+Kerala" />
 
