@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <!-- BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2B2A,100:2DD4BF&height=200&section=header&text=Rana%20Fathima&fontSize=70&fontColor=FFF8E7&animation=fadeIn&fontAlignY=35" width="100%"/>
 
