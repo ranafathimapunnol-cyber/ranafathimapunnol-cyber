@@ -55,7 +55,7 @@ As a **Full Stack Developer**, I specialise in building modern web applications 
   <img src="https://img.shields.io/badge/Django_REST_Framework-FF1709?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
----
+--
 
 ## 🗄️ Databases
 <p align="center">
