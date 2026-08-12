@@ -22,7 +22,7 @@ As a **Full Stack Developer**, I specialise in building modern web applications 
 > Clean Code • Scalable Architecture • User-Centred Design • Continuous Learning
 # 💻 Tech Stack
 
-## 🚀 Languages
+## 🚀  Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
