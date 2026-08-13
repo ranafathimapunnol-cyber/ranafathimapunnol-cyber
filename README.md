@@ -119,7 +119,6 @@ As a **Full Stack Developer**, I specialise in building modern web applications 
 ---
 
 
-
 ## 🌍 Featured Projects
 
 <table>
