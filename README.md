@@ -156,7 +156,7 @@ As a **Full Stack Developer**, I specialise in building modern web applications 
 <tr>
 <td width="50%">
 
-### 🛵 Rapido E-Commerce
+### 🥾 Rapido E-Commerce
 **Django + React Shopping**
 
 `React` `Django` `PostgreSQL`
