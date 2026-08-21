@@ -28,10 +28,6 @@ As a **Full Stack Developer**, I specialise in building modern web applications 
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
 ---
 
 ## 🎨 Frontend Development
