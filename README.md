@@ -71,7 +71,6 @@ As a **Full Stack Developer**, I specialise in building modern web applications 
   <img src="https://img.shields.io/badge/Vector_Database-14B8A6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Qdrant-EA580C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 ---
